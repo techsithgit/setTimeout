@@ -1,0 +1,9 @@
+/* Styles go here */
+#setTimeout, #clearTimeout {
+  border:1px solid red;
+  width:150px;
+  margin-bottom:20px;
+  cursor:pointer;
+  text-align:center;
+  border-radius:2px;
+}
